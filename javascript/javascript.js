@@ -11,7 +11,12 @@ const projetos = [
     //     desc: "O que faz, em uma frase, e a tecnologia usada.",
     //     link: "https://github.com/chris-lukau/nome-do-repo"
     // },
-
+    {
+        titulo: "Template de um portfólio",
+        tipo: "dev",
+        desc: "Gerar credibilidade e confiança, usando HTML, CSS e JS",
+        link: "https://github.com/chris-lukau/portfolio-lukau"
+    }
 ];
 
 // Seleciona o container onde os cards serão inseridos
